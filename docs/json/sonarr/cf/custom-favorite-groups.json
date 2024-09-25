@@ -1,0 +1,28 @@
+{
+  "trash_id": "custom-favorite-groups",
+  "trash_scores": {
+    "default": 10
+  },
+  "name": "Favorite gorups",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "NTb",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(NTb)$"
+      }
+    },
+    {
+      "name": "SubsPlease",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(SubsPlease)$"
+      }
+    },
+  ]
+}
