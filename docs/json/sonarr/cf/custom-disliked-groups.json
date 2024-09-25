@@ -1,0 +1,28 @@
+{
+  "trash_id": "custom-disliked-groups",
+  "trash_scores": {
+    "default": -10000
+  },
+  "name": "Disliked gorups",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "HONE",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(HONE)$"
+      }
+    },
+    {
+      "name": "KAWAII",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(KAWAII)$"
+      }
+    },
+  ]
+}
