@@ -1,0 +1,19 @@
+{
+  "trash_id": "custom-language-prefer-latino",
+  "trash_scores": {
+    "default": 10
+  },
+  "name": "Language: Prefer Latino",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Spanish LAT",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 34
+      }
+    }
+  ]
+}

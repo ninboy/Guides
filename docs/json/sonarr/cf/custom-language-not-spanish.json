@@ -1,0 +1,28 @@
+{
+  "trash_id": "custom-language-not-spanish",
+  "trash_scores": {
+    "default": -10000
+  },
+  "name": "Language: Not Spanish",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Not LAT",
+      "implementation": "LanguageSpecification",
+      "negate": true,
+      "required": true,
+      "fields": {
+        "value": 34
+      }
+    },
+    {
+      "name": "Not Spanish",
+      "implementation": "LanguageSpecification",
+      "negate": true,
+      "required": true,
+      "fields": {
+        "value": 3
+      }
+    }
+  ]
+}
