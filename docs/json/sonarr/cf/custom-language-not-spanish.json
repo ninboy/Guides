@@ -23,6 +23,24 @@
       "fields": {
         "value": 3
       }
+    },
+    {
+      "name": "Not Lat-Team",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": true,
+      "required": true,
+      "fields": {
+        "value": "^(Lat(-)?Team)$"
+      }
+    },
+    {
+      "name": "Not Casrock",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": true,
+      "required": true,
+      "fields": {
+        "value": "^(Casrock)$"
+      }
     }
   ]
 }
