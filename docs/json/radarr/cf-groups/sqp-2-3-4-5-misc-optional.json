@@ -56,6 +56,11 @@
       "name": "HDR10+ Boost",
       "trash_id": "b17886cb4158d9fea189859409975758",
       "required": false
+    },
+    {
+      "name": "DV HDR10+ Boost",
+      "trash_id": "55a5b50cb416dea5a50c4955896217ab",
+      "required": false
     }
   ],
   "quality_profiles": {
@@ -65,6 +70,7 @@
       "Remux + WEB 1080p": "9ca12ea80aa55ef916e3751f4b874151",
       "Remux + WEB 2160p": "fd161a61e3ab826d3a22d53f935696dd",
       "SQP-1 (1080p)": "0896c29d74de619df168d23b98104b22",
+      "SQP-1 WEB (1080p)": "90a3370d2d30cbaf08d9c23b856a12c8",
       "SQP-1 (2160p)": "5128baeb2b081b72126bc8482b2a86a0"
     }
   }

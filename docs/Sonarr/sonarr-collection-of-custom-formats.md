@@ -61,8 +61,8 @@ We've made 3 guides related to this.
 
 | General Streaming Services | French Streaming Services | Asian Streaming Services | Dutch Streaming Services |
 | -------------------------- | ------------------------- | ------------------------ | ------------------------ |
-| [Amazon](#amzn)            | [CANAL+](#canalplus)      | [FOD](#fod)              | [NLZiet](#nlz)           |
-| [Apple TV+](#atvp)         | [RTBF](#rtbf)             | [Disney+ Hotstar](#htsr) | [Videoland](#vdl)        |
+| [Amazon](#amzn)            | [MyCANAL](#mycanal)       | [FOD](#fod)              | [NLZiet](#nlz)           |
+| [Apple TV+](#atvp)         | [AUViO](#auvio)           | [Disney+ Hotstar](#htsr) | [Videoland](#vdl)        |
 | [Comedy Central](#cc)      | [SALTO](#salto)           | [TVer](#tver)            |                          |
 | [DC Universe](#dcu)        |                           | [TVING](#tving)          |                          |
 | [Disney+](#dsnp)           |                           | [U-NEXT](#u-next)        |                          |
@@ -79,46 +79,47 @@ We've made 3 guides related to this.
 | [Syfy](#syfy)              |                           |                          |                          |
 
 | UK Streaming Services | Misc Streaming Services | Anime Streaming Services | Optional Streaming Services                 |
-| --------------------- | ----------------------- | ------------------------ | ------------------------------------------- |
-| [4OD](#4od)           | [Crave](#crav)          | [B-Global](#b-global)    | [UHD Streaming Boost](#uhd-streaming-boost) |
-| [ALL4](#all4)         | [Discovery+](#dscp)     | [Bilibili](#bilibili)    | [UHD Streaming Cut](#uhd-streaming-cut)     |
-| [BBC iPlayer](#ip)    | [OViD](#ovid)           | [Crunchyroll](#cr)       |                                             |
-| [ITVX](#itvx)         | [Star+](#strp)          | [Funimation](#funi)      |                                             |
-| [NOW](#now)           | [YouTube Red](#red)     | [HIDIVE](#hidive)        |                                             |
+|-----------------------|-------------------------|--------------------------|---------------------------------------------|
+| [4OD](#4od)           | [AUBC](#aubc)           | [ABEMA](#abema)          | [UHD Streaming Boost](#uhd-streaming-boost) |
+| [ALL4](#all4)         | [CBC](#cbc)             | [ADN](#adn)              | [UHD Streaming Cut](#uhd-streaming-cut)     |
+| [BBC iPlayer](#ip)    | [Crave](#crav)          | [B-Global](#b-global)    |                                             |
+| [ITVX](#itvx)         | [Discovery+](#dscp)     | [Bilibili](#bilibili)    |                                             |
+| [MY5](#my5)           | [OViD](#ovid)           | [Crunchyroll](#cr)       |                                             |
+| [NOW](#now)           | [Star+](#strp)          | [Funimation](#funi)      |                                             |
+|                       | [YouTube Red](#red)     | [HIDIVE](#hidive)        |                                             |
 |                       | [Quibi](#qibi)          | [VRV](#vrv)              |                                             |
-|                       |                         | [ABEMA](#abema)          |                                             |
-|                       |                         | [ADN](#adn)              |                                             |
 |                       |                         | [WKN](#wkn)              |                                             |
 
 ---
 
-| Miscellaneous                          | French Audio Version          | French Source Groups                          |
-| -------------------------------------- | ----------------------------- | --------------------------------------------- |
-| [Bad Dual Groups](#bad-dual-groups)    | [Multi-French](#multi-french) | [FR Remux Tier 01](#fr-remux-tier-01)         |
-| [DV (Disk)](#dv-disk)                  | [Multi-Audio](#multi-audio)   | [FR HD Bluray Tier 01](#fr-hd-bluray-tier-01) |
-| [DV (WEBDL)](#dv-webdl)                | [French Audio](#french-audio) | [FR WEB Tier 01](#fr-web-tier-01)             |
-| [DV HDR10+ Boost](#dv-hdr10plus-boost) | [VFF](#vff)                   | [FR WEB Tier 02](#fr-web-tier-02)             |
-| [FreeLeech](#freeleech)                | [VOF](#vof)                   | [FR WEB Tier 03](#fr-web-tier-03)             |
-| [HDR10+ Boost](#hdr10plus-boost)       | [VFI](#vfi)                   | [FR Anime Tier 01](#fr-anime-tier-01)         |
-| [HFR](#hfr)                            | [VF2](#vf2)                   | [FR Anime Tier 02](#fr-anime-tier-02)         |
-| [Internal](#internal)                  | [VFQ](#vfq)                   | [FR Anime Tier 03](#fr-anime-tier-03)         |
-| [MPEG2](#mpeg2)                        | [VOQ](#voq)                   | [FR Anime FanSub](#fr-anime-fansub)           |
-| [Multi](#multi)                        | [VQ](#vq)                     | [FR Scene Groups](#fr-scene-groups)           |
-| [No-RlsGroup](#no-rlsgroup)            | [VFB](#vfb)                   | [FR LQ](#fr-lq)                               |
-| [Obfuscated](#obfuscated)              | [VOSTFR](#vostfr)             |                                               |
-| [Repack v2](#repack-v2)                | [FanSUB](#fansub)             |                                               |
-| [Repack v3](#repack-v3)                | [FastSUB](#fastsub)           |                                               |
-| [Repack/Proper](#repackproper)         |                               |                                               |
-| [Retags](#retags)                      |                               |                                               |
-| [Scene](#scene)                        |                               |                                               |
-| [SDR (no WEBDL)](#sdr-no-webdl)        |                               |                                               |
-| [SDR](#sdr)                            |                               |                                               |
-| [Season Packs](#season-pack)           |                               |                                               |
-| [VP9](#vp9)                            |                               |                                               |
-| [x264](#x264)                          |                               |                                               |
-| [x265 (no HDR/DV)](#x265-no-hdrdv)     |                               |                                               |
-| [x265](#x265)                          |                               |                                               |
-| [x266](#x266)                          |                               |                                               |
+| Miscellaneous                          | French Audio Version | French Source Groups                          |
+|----------------------------------------|----------------------|-----------------------------------------------|
+| [Bad Dual Groups](#bad-dual-groups)    | [VFF](#vff)          | [FR Remux Tier 01](#fr-remux-tier-01)         |
+| [DV (Disk)](#dv-disk)                  | [VOF](#vof)          | [FR HD Bluray Tier 01](#fr-hd-bluray-tier-01) |
+| [DV (WEBDL)](#dv-webdl)                | [VFI](#vfi)          | [FR WEB Tier 01](#fr-web-tier-01)             |
+| [DV HDR10+ Boost](#dv-hdr10plus-boost) | [VF2](#vf2)          | [FR WEB Tier 02](#fr-web-tier-02)             |
+| [FreeLeech](#freeleech)                | [VFQ](#vfq)          | [FR WEB Tier 03](#fr-web-tier-03)             |
+| [HDR10+ Boost](#hdr10plus-boost)       | [VOQ](#voq)          | [FR Anime Tier 01](#fr-anime-tier-01)         |
+| [HFR](#hfr)                            | [VQ](#vq)            | [FR Anime Tier 02](#fr-anime-tier-02)         |
+| [Internal](#internal)                  | [VFB](#vfb)          | [FR Anime Tier 03](#fr-anime-tier-03)         |
+| [MPEG2](#mpeg2)                        | [VOSTFR](#vostfr)    | [FR Anime FanSub](#fr-anime-fansub)           |
+| [Multi](#multi)                        | [FanSUB](#fansub)    | [FR Scene Groups](#fr-scene-groups)           |
+| [No-RlsGroup](#no-rlsgroup)            | [FastSUB](#fastsub)  | [FR LQ](#fr-lq)                               |
+| [Obfuscated](#obfuscated)              |                      |                                               |
+| [Repack v2](#repack-v2)                |                      |                                               |
+| [Repack v3](#repack-v3)                |                      |                                               |
+| [Repack/Proper](#repackproper)         |                      |                                               |
+| [Retags](#retags)                      |                      |                                               |
+| [Scene](#scene)                        |                      |                                               |
+| [SDR (no WEBDL)](#sdr-no-webdl)        |                      |                                               |
+| [SDR](#sdr)                            |                      |                                               |
+| [Season Packs](#season-pack)           |                      |                                               |
+| [VC-1](#vc-1)                          |                      |                                               |
+| [VP9](#vp9)                            |                      |                                               |
+| [x264](#x264)                          |                      |                                               |
+| [x265 (no HDR/DV)](#x265-no-hdrdv)     |                      |                                               |
+| [x265](#x265)                          |                      |                                               |
+| [x266](#x266)                          |                      |                                               |
 
 ---
 
@@ -1237,6 +1238,22 @@ We've made 3 guides related to this.
 
 ---
 
+### VC-1
+
+??? question "VC-1 - [Click to show/hide]"
+
+    {! include-markdown "../../includes/cf-descriptions/vc-1.md" !}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/vc-1.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
+
+---
+
 ### VP9
 
 ??? question "VP9 - [Click to show/hide]"
@@ -1798,36 +1815,36 @@ We've made 3 guides related to this.
 
 ---
 
-#### CANALPlus
+#### AUViO
 
-<sub>CANALPlus = CANAL+/MyCANAL</sub>
+<sub>RTBF</sub>
 
-??? question "Canal+ - [Click to show/hide]"
+??? question "AUViO/RTBF - [Click to show/hide]"
 
-    {! include-markdown "../../includes/cf-descriptions/french-canalplus.md" !}
+    {! include-markdown "../../includes/cf-descriptions/french-auvio.md" !}
 
 ??? example "JSON - [Click to show/hide]"
 
     ```json
-    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/french-canalplus.json' %]][[% endfilter %]]
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/french-auvio.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup></sub>
 
 ---
 
-#### RTBF
+#### MyCANAL
 
-<sub>RTBF = Radio-télévision belge de la Communauté française (Radio Télévision Belge Francophone)</sub>
+<sub>MyCANAL = CANAL+/MyCANAL</sub>
 
-??? question "RTBF - [Click to show/hide]"
+??? question "MyCANAL - [Click to show/hide]"
 
-    {! include-markdown "../../includes/cf-descriptions/french-rtbf.md" !}
+    {! include-markdown "../../includes/cf-descriptions/french-mycanal.md" !}
 
 ??? example "JSON - [Click to show/hide]"
 
     ```json
-    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/french-rtbf.json' %]][[% endfilter %]]
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/french-mycanal.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup></sub>
@@ -2080,6 +2097,24 @@ We've made 3 guides related to this.
 
 ---
 
+#### MY5
+
+<sub>MY5 aka Channel 5</sub>
+
+??? question "MY5 aka Channel 5 - [Click to show/hide]"
+
+    {! include-markdown "../../includes/cf-descriptions/my5.md" !}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/my5.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
+
+---
+
 #### NOW
 
 <sub>NOW</sub>
@@ -2099,6 +2134,42 @@ We've made 3 guides related to this.
 ---
 
 ### Misc Streaming Services
+
+---
+
+#### AUBC
+
+<sub>Australian Broadcasting Corporation</sub>
+
+??? question "AUBC - [Click to show/hide]"
+
+    {! include-markdown "../../includes/cf-descriptions/aubc.md" !}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/aubc.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
+
+---
+
+#### CBC
+
+<sub>CBC</sub>
+
+??? question "CBC - [Click to show/hide]"
+
+    {! include-markdown "../../includes/cf-descriptions/cbc.md" !}
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/cbc.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
 
 ---
 
@@ -2810,54 +2881,6 @@ We've made 3 guides related to this.
 
 ---
 
-### Multi-French
-
-??? question "Multi-French - [Click to show/hide]"
-
-    Recognize movies that include the original and the French audio. Works only after import as it needs the result from FFprobe to get which audio tracks are present. Will rename the release to keep the recognition of 'Multi' by the [Multi-Audio](#multi-audio) custom format.
-
-??? example "JSON - [Click to show/hide]"
-
-    ```json
-    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/multi-french.json' %]][[% endfilter %]]
-    ```
-
-<sub><sup>[TOP](#index)</sup></sub>
-
----
-
-### Multi-Audio
-
-??? question "Multi-Audio - [Click to show/hide]"
-
-    A slightly modified [Multi](#multi) Custom Formats that recognize VF and VO inside the name.
-
-??? example "JSON - [Click to show/hide]"
-
-    ```json
-    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/multi-audio.json' %]][[% endfilter %]]
-    ```
-
-<sub><sup>[TOP](#index)</sup></sub>
-
----
-
-### French Audio
-
-??? question "French Audio - [Click to show/hide]"
-
-    This will recognize every kind of French Audio.
-
-??? example "JSON - [Click to show/hide]"
-
-    ```json
-    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/french-audio.json' %]][[% endfilter %]]
-    ```
-
-<sub><sup>[TOP](#index)</sup></sub>
-
----
-
 ### VFF
 
 ??? question "VFF - [Click to show/hide]"
@@ -3218,7 +3241,7 @@ We've made 3 guides related to this.
 
 ### FR LQ
 
-French Low-Quality Releases = FR LQ</sub>
+<sub>French Low-Quality Releases = FR LQ</sub>
 
 ??? question "FR LQ - [Click to show/hide]"
 
@@ -3235,6 +3258,64 @@ French Low-Quality Releases = FR LQ</sub>
 
     ```json
     [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/french-lq.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
+
+---
+
+## Language Profile
+
+---
+
+### Language Not French
+
+<sub>Language Not French</sub>
+
+??? question "Language Not French - [Click to show/hide]"
+
+    Language Specification is Not French
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/language-not-french.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
+
+---
+
+### Language Not Original
+
+<sub>Language Not Original</sub>
+
+??? question "Language Not Original - [Click to show/hide]"
+
+    Language Specification is Not Original
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/language-not-original.json' %]][[% endfilter %]]
+    ```
+
+<sub><sup>[TOP](#index)</sup></sub>
+
+---
+
+### Language Original French
+
+<sub>Language Original + French</sub>
+
+??? question "Language Original + French - [Click to show/hide]"
+
+    Language Specification Original + French
+
+??? example "JSON - [Click to show/hide]"
+
+    ```json
+    [[% filter indent(width=4) %]][[% include 'json/sonarr/cf/language-original-french.json' %]][[% endfilter %]]
     ```
 
 <sub><sup>[TOP](#index)</sup></sub>
