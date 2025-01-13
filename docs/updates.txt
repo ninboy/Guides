@@ -1,3 +1,49 @@
+# 2025-01-12 01:38
+- [chore(backend-test): add `MinUpgradeFormatScore` for the 3rd party sync apps](https://github.com/TRaSH-Guides/Guides/pull/2214)
+- [feat(radarr): German Guide - add "not english or german" CF and explanation for the max CF score](https://github.com/TRaSH-Guides/Guides/pull/2210)
+- [fix(radarr): German Guide - add negated remux quality modifier to bluray groups to avoid double scoring](https://github.com/TRaSH-Guides/Guides/pull/2211)
+- [chore(backend): Moved all Support/Suggestions to the Discord Server](https://github.com/TRaSH-Guides/Guides/pull/2209)
+- [chore(guide): Updated README.md](https://github.com/TRaSH-Guides/Guides/pull/2208)
+- [fix(starr):  add DUAL-VARYG to Dual Audio Custom Anime Format](https://github.com/TRaSH-Guides/Guides/pull/2204)
+
+# 2025-01-05 01:36
+- [feat(Guides): Add new groups to LQ custom format](https://github.com/TRaSH-Guides/Guides/pull/2205)
+- [feat(guide): Guide Sync updates](https://github.com/TRaSH-Guides/Guides/pull/2203)
+- [chore(cleanup): remove reference to animebytes.tv](https://github.com/TRaSH-Guides/Guides/pull/2199)
+- [feat(starr-anime): Require remux in title for NAN0](https://github.com/TRaSH-Guides/Guides/pull/2198)
+- [fix(radarr): Add missing entries to unwanted section of the german guide](https://github.com/TRaSH-Guides/Guides/pull/2196)
+- [chore(guide): Add upcoming QP language option for the 3rd party sync apps](https://github.com/TRaSH-Guides/Guides/pull/2197)
+- [feat(radarr): Clarify the use of merged qualities for the German Guide](https://github.com/TRaSH-Guides/Guides/pull/2193)
+- [chore(guide): Updated QP excludes for the 3rd party sync apps](https://github.com/TRaSH-Guides/Guides/pull/2195)
+- [chore(guide): German QP sorting fix for the 3rd party sync apps](https://github.com/TRaSH-Guides/Guides/pull/2194)
+- [feat(guide-sync): Add German Quality Profiles for the 3rd party sync applications](https://github.com/TRaSH-Guides/Guides/pull/2190)
+- [fix(radarr): updated screenshot with correct minimum score](https://github.com/TRaSH-Guides/Guides/pull/2191)
+
+# 2024-12-29 01:37
+- [feat(radarr): Add Information about Generated Dynamic HDR in the German Guide](https://github.com/TRaSH-Guides/Guides/pull/2186)
+- [fix(radarr): Adapt German CF to avoid matching DL](https://github.com/TRaSH-Guides/Guides/pull/2188)
+- [chore(guide): Custom Format language fix for the 3rd party TRaSH Sync apps](https://github.com/TRaSH-Guides/Guides/pull/2189)
+- [fix(radarr): updated profile language screenshot of german guide with consistent values](https://github.com/TRaSH-Guides/Guides/pull/2187)
+- [feat(Guides): Create new Generated Dynamic HDR custom format](https://github.com/TRaSH-Guides/Guides/pull/2185)
+- [feat(starr-anime): Remove unnecessary anime remux groups, move top remux groups to higher tiers, add NAN0 and VULCAN](https://github.com/TRaSH-Guides/Guides/pull/2177)
+- [feat(Guides): Update qBittorrent Themes page](https://github.com/TRaSH-Guides/Guides/pull/2183)
+- [feat(Guides): Update Sonarr Season Pack custom format description](https://github.com/TRaSH-Guides/Guides/pull/2184)
+- [fix(guide): Changes to be aligned with the German guide](https://github.com/TRaSH-Guides/Guides/pull/2180)
+- [fix(radarr): remove MULTI recommendation from German Guide](https://github.com/TRaSH-Guides/Guides/pull/2179)
+- [fix(guide): Fix broken links in the hardlinks index page](https://github.com/TRaSH-Guides/Guides/pull/2178)
+- [feat(guide): NEW - How to Order Quality Sources](https://github.com/TRaSH-Guides/Guides/pull/2172)
+- [feat(radarr): NEW German guide](https://github.com/TRaSH-Guides/Guides/pull/1993)
+- [style(guide): Consistency in the wording of `hardlinks` vs `hard links`](https://github.com/TRaSH-Guides/Guides/pull/2171)
+- [fix(guide): Starr - Quality Settings (File Size) - Updated Legacy MAX from `400` to `1000` ](https://github.com/TRaSH-Guides/Guides/pull/2170)
+
+# 2024-12-22 01:36
+- [feat(Guide): Add `BAUCKLEY` to Radarr `LQ` Custom Format](https://github.com/TRaSH-Guides/Guides/pull/2168)
+- [fix(ci): allow exceptLanguage in CF schema validation](https://github.com/TRaSH-Guides/Guides/pull/2166)
+- [fix(backend): Related stuff for 3rd party apps](https://github.com/TRaSH-Guides/Guides/pull/2165)
+- [fix(starr): last minute CF name change for German DL](https://github.com/TRaSH-Guides/Guides/pull/2164)
+- [feat(starr): Added language Custom Formats](https://github.com/TRaSH-Guides/Guides/pull/2159)
+- [fix(starr): French guide reported needed fixes](https://github.com/TRaSH-Guides/Guides/pull/2162)
+
 # 2024-12-08 01:44
 - [fix(backend): Add missing AMZN from Sonarr 2160p QP JSON](https://github.com/TRaSH-Guides/Guides/pull/2154)
 - [update(starr/cf): add additional service tag in regex and proof-edit definition](https://github.com/TRaSH-Guides/Guides/pull/2152)

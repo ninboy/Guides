@@ -70,6 +70,15 @@
       }
     },
     {
+      "name": "BAUCKLEY",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(BAUCKLEY)$"
+      }
+    },
+    {
       "name": "BdC",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
@@ -85,6 +94,15 @@
       "required": false,
       "fields": {
         "value": "^(beAst)$"
+      }
+    },
+    {
+      "name": "C1NEM4",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(C1NEM4)$"
       }
     },
     {
@@ -133,6 +151,15 @@
       }
     },
     {
+      "name": "COLLECTiVE",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(COLLECTiVE)$"
+      }
+    },
+    {
       "name": "CREATiVE24",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
@@ -175,15 +202,6 @@
       "required": false,
       "fields": {
         "value": "^(DDR)$"
-      }
-    },
-    {
-      "name": "DepraveD",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(DepraveD)$"
       }
     },
     {
@@ -430,6 +448,15 @@
       }
     },
     {
+      "name": "LUCY",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(LUCY)$"
+      }
+    },
+    {
       "name": "MarkII",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
@@ -637,15 +664,6 @@
       }
     },
     {
-      "name": "SasukeducK",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(SasukeducK)$"
-      }
-    },
-    {
       "name": "Scene",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
@@ -682,12 +700,12 @@
       }
     },
     {
-      "name": "tarunk9c",
+      "name": "SUNSCREEN",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "^(tarunk9c)$"
+        "value": "^(SUNSCREEN)$"
       }
     },
     {
@@ -724,15 +742,6 @@
       "required": false,
       "fields": {
         "value": "^(TIKO)$"
-      }
-    },
-    {
-      "name": "VECTOR",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(VECTOR)$"
       }
     },
     {
