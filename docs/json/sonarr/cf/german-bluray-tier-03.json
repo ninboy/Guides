@@ -1,5 +1,5 @@
 {
-  "trash_id": "aee01d40cd1bf4bcded81ee62f0f3659",
+  "trash_id": "d8f8e1539827967e0e564833e6c08d33",
   "trash_scores": {
       "default": 2800
   },
@@ -16,30 +16,21 @@
       }
     },
     {
-      "name": "LeetHD",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(LeetHD)$"
-      }
-    },
-    {
       "name": "Bluray",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": true,
       "fields": {
-        "value": 9
+        "value": 6
       }
     },
     {
-      "name": "Not Remux",
-      "implementation": "QualityModifierSpecification",
+      "name": "Not REMUX",
+      "implementation": "SourceSpecification",
       "negate": true,
       "required": true,
       "fields": {
-        "value": 5
+        "value": 7
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "trash_id": "2d136d4e33082fe573d06b1f237c40dd",
+  "trash_id": "c2eec878fa1989599c226ce4c287d6a7",
   "trash_scores": {
       "default": 1500
   },
@@ -184,24 +184,6 @@
       "required": false,
       "fields": {
         "value": "^(muhHD)$"
-      }
-    },
-    {
-      "name": "RiLE",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(RiLE)$"
-      }
-    },
-    {
-      "name": "W4K",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(W4K)$"
       }
     },
     {

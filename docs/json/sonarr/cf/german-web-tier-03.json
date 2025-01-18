@@ -1,9 +1,9 @@
 {
-  "trash_id": "aee01d40cd1bf4bcded81ee62f0f3659",
+  "trash_id": "bda67c2c0aae257308a4723d92475b86",
   "trash_scores": {
-      "default": 2800
+      "default": 1800
   },
-  "name": "German Bluray Tier 03",
+  "name": "German Web Tier 03",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
@@ -16,30 +16,30 @@
       }
     },
     {
-      "name": "LeetHD",
+      "name": "BALENCiAGA",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "^(LeetHD)$"
+        "value": "^(BALENCiAGA)$"
       }
     },
     {
-      "name": "Bluray",
+      "name": "WebDL",
       "implementation": "SourceSpecification",
       "negate": false,
-      "required": true,
+      "required": false,
       "fields": {
-        "value": 9
+        "value": 3
       }
     },
     {
-      "name": "Not Remux",
-      "implementation": "QualityModifierSpecification",
-      "negate": true,
-      "required": true,
+      "name": "WebRip",
+      "implementation": "SourceSpecification",
+      "negate": false,
+      "required": false,
       "fields": {
-        "value": 5
+        "value": 4
       }
     }
   ]
