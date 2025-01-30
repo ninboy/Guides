@@ -1,7 +1,7 @@
 {
   "trash_id": "263943bc5d99550c68aad0c4278ba1c7",
   "trash_scores": {
-      "default": -20000
+      "default": -35000
   },
   "name": "German LQ",
   "includeCustomFormatWhenRenaming": false,
@@ -346,6 +346,42 @@
       "required": false,
       "fields": {
         "value": "^(iSSEYMiYAKE)$"
+      }
+    },
+    {
+      "name": "TVP",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(TVP)$"
+      }
+    },
+    {
+      "name": "AIDA",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(AIDA)$"
+      }
+    },
+    {
+      "name": "UTOPiA",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(UTOPiA)$"
+      }
+    },
+    {
+      "name": "FRAGGERS",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(FRAGGERS)$"
       }
     }
   ]
