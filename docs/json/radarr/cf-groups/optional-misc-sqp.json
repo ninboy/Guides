@@ -1,71 +1,76 @@
 {
-  "name": "Release Groups",
-  "trash_id": "0891e90b7edea483b30a69ba66c8693e",
-  "trash_description": "A collection of English/International release groups.",
+  "name": "[Optional] Miscellaneous SQP",
+  "trash_id": "c4492eebd0c2ddc14c2c91623aa7f95d",
+  "trash_description": "Optional Custom Formats make sure to read the individual descriptions that you can find in the guide.",
   "custom_formats": [
     {
-      "name": "Remux Tier 01",
-      "trash_id": "3a3ff47579026e76d6504ebea39390de",
+      "name": "Bad Dual Groups",
+      "trash_id": "b6832f586342ef70d9c128d40c07b872",
       "required": false
     },
     {
-      "name": "Remux Tier 02",
-      "trash_id": "9f98181fe5a3fbeb0cc29340da2a468a",
+      "name": "Black and White Editions",
+      "trash_id": "cc444569854e9de0b084ab2b8b1532b2",
       "required": false
     },
     {
-      "name": "Remux Tier 03",
-      "trash_id": "8baaf0b3142bf4d94c42a724f034e27a",
+      "name": "DV (Disk)",
+      "trash_id": "f700d29429c023a5734505e77daeaea7",
       "required": false
     },
     {
-      "name": "UHD Bluray Tier 01",
-      "trash_id": "4d74ac4c4db0b64bff6ce0cffef99bf0",
+      "name": "EVO (no WEBDL)",
+      "trash_id": "90cedc1fea7ea5d11298bebd3d1d3223",
       "required": false
     },
     {
-      "name": "UHD Bluray Tier 02",
-      "trash_id": "a58f517a70193f8e578056642178419d",
+      "name": "HFR",
+      "trash_id": "973613461ac2cea99d52c4cd6e177ab82",
       "required": false
     },
     {
-      "name": "UHD Bluray Tier 03",
-      "trash_id": "e71939fae578037e7aed3ee219bbe7c1",
+      "name": "Multi",
+      "trash_id": "4b900e171accbfb172729b63323ea8ca",
       "required": false
     },
     {
-      "name": "HD Bluray Tier 01",
-      "trash_id": "ed27ebfef2f323e964fb1f61391bcb35",
+      "name": "No-RlsGroup",
+      "trash_id": "ae9b7c9ebde1f3bd336a8cbd1ec4c5e5",
       "required": false
     },
     {
-      "name": "HD Bluray Tier 02",
-      "trash_id": "c20c8647f2746a1f4c4262b0fbbeeeae",
+      "name": "Obfuscated",
+      "trash_id": "7357cf5161efbf8c4d5d0c30b4815ee2",
       "required": false
     },
     {
-      "name": "HD Bluray Tier 03",
-      "trash_id": "5608c71bcebba0a5e666223bae8c9227",
+      "name": "Retags",
+      "trash_id": "5c44f52a8714fdd79bb4d98e2673be1f",
       "required": false
     },
     {
-      "name": "UHD Bluray Tier 03",
-      "trash_id": "e71939fae578037e7aed3ee219bbe7c1",
+      "name": "Scene",
+      "trash_id": "f537cf427b64c38c8e36298f657e4828",
       "required": false
     },
     {
-      "name": "WEB Tier 01",
-      "trash_id": "c20f169ef63c5f40c2def54abaf4438e",
+      "name": "VC-1",
+      "trash_id": "11cd1db7165d6a7ad9a83bc97b8b1060",
       "required": false
     },
     {
-      "name": "WEB Tier 02",
-      "trash_id": "403816d65392c79236dcb6dd591aeda4",
+      "name": "VP9",
+      "trash_id": "ae4cfaa9283a4f2150ac3da08e388723",
       "required": false
     },
     {
-      "name": "WEB Tier 03",
-      "trash_id": "af94e0fe497124d1f9ce732069ec8c3b",
+      "name": "x265",
+      "trash_id": "9170d55c319f4fe40da8711ba9d8050d",
+      "required": false
+    },
+    {
+      "name": "x266",
+      "trash_id": "390455c22a9cac81a738f6cbad705c3c",
       "required": false
     }
   ],
@@ -80,8 +85,8 @@
       "[German] HD Bluray + WEB": "2b90e905c99490edc7c7a5787443748b",
       "[German] HD Remux + WEB": "c13c33fdd2c306266b34cb9946de5919",
       "[German] Remux + WEB 2160p": "79faa9943cef2f510b997b1f2a9f3ea6",
-      "[German] UHD Bluray + WEB (Alternative)": "425da1ba30711b55d2eb371437ec98d7",
       "[German] UHD Bluray + WEB": "27cc3d153c0a799fd139ef1ff4c4cc42",
+      "[German] UHD Bluray + WEB (Alternative)": "425da1ba30711b55d2eb371437ec98d7",
       "[French MULTi.VO] HD Bluray + WEB": "2572ce3ea4eef1c19d59e0e20ed1cea7",
       "[French MULTi.VO] HD Remux (1080p)": "c6460a102b312200c095a2d0982e0461",
       "[French MULTi.VO] UHD Bluray + WEB": "92ead7022d13a7858d54e328e6a2f8f9",
@@ -90,11 +95,8 @@
       "SQP-1 WEB (1080p)": "90a3370d2d30cbaf08d9c23b856a12c8",
       "SQP-1 (2160p)": "5128baeb2b081b72126bc8482b2a86a0",
       "SQP-1 WEB (2160p)": "e91c9adaca0231493f4af0d571b907f9",
-      "SQP-2": "c3933358ba2356bafc41524f81471069",
-      "SQP-3": "2cf36c1f0106ffac993be003ade51865",
-      "SQP-4": "013f89e6da27519fe56cf482702a2db9",
-      "SQP-5": "a7bb1539fd147256b21b1098f3dc2016",
       "[Anime] Remux-1080p": "722b624f9af1e492284c4bc842153a38"
     }
   }
 }
+
