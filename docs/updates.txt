@@ -1,3 +1,50 @@
+# 2025-11-09 00:28
+- [feat(downloaders): How to use the unRaid qBit-Mover with the Mover Tuning plugin](https://github.com/TRaSH-Guides/Guides/pull/2526)
+- [feat(guide): Remove WEBDL exclusion from Dynamic Generate HDR custom format](https://github.com/TRaSH-Guides/Guides/pull/2531)
+
+# 2025-11-02 00:28
+- [feat(starr-anime): Add Cytox to Anime Web Tier 02](https://github.com/TRaSH-Guides/Guides/pull/2527)
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+
+# 2025-10-26 00:26
+- [fix(radarr-french): incorrect quality group name in CF](https://github.com/TRaSH-Guides/Guides/pull/2523)
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+
+# 2025-10-19 00:28
+- [feat(guide): Update Tier Descriptions](https://github.com/TRaSH-Guides/Guides/pull/2520)
+- [feat(guide): October 2025 Tier Membership update](https://github.com/TRaSH-Guides/Guides/pull/2521)
+- [docs: Add .internal domain recommendations for Docker container names](https://github.com/TRaSH-Guides/Guides/pull/2514)
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+
+# 2025-10-12 00:25
+- [fix(sonarr): update webrip and webdl CF references](https://github.com/TRaSH-Guides/Guides/pull/2512)
+- [fix(guide): Updated streaming service scores for Sonarr](https://github.com/TRaSH-Guides/Guides/pull/2513)
+- [fix(guide-sync): Add missing HD Streaming Boosts to 1080p Sonarr quality profiles](https://github.com/TRaSH-Guides/Guides/pull/2511)
+- [feat(guide-sync): Move several CFs into CF group files and removing them from individual quality profiles, allowing for greater flexibility](https://github.com/TRaSH-Guides/Guides/pull/2509)
+
+# 2025-10-05 00:27
+- [feat(guide): Streaming Services Update](https://github.com/TRaSH-Guides/Guides/pull/2508)
+- [feat(starr-anime): Add KawaSubs to Anime Web Tier 06](https://github.com/TRaSH-Guides/Guides/pull/2505)
+- [fix(starr): update Upscale CF](https://github.com/TRaSH-Guides/Guides/pull/2502)
+- [chore(guide):  Update the site description](https://github.com/TRaSH-Guides/Guides/pull/2504)
+
+# 2025-09-28 00:27
+- [feat(starr-anime): Add CRUCiBLE to Anime Tier 03](https://github.com/TRaSH-Guides/Guides/pull/2499)
+- [fix(radarr): bcore regex could match movie titles](https://github.com/TRaSH-Guides/Guides/pull/2498)
+- [feat(radarr): Add `CORE` matching to the  `BCORE` streaming services custom format](https://github.com/TRaSH-Guides/Guides/pull/2494)
+- [feat(guide): Added the NEW `P2P/Scene Naming` to the Naming Scheme Guide](https://github.com/TRaSH-Guides/Guides/pull/2496)
+
+# 2025-09-21 00:27
+- [chore(contributors): Update CONTRIBUTORS.md](https://github.com/TRaSH-Guides/Guides/pull/)
+- [feat(guide-sync): Added more groups as optionals](https://github.com/TRaSH-Guides/Guides/pull/2476)
+- [feat(starr-german): Add Release Groups to German Tiers](https://github.com/TRaSH-Guides/Guides/pull/2489)
+- [fix(starr): HDR CF DV condition](https://github.com/TRaSH-Guides/Guides/pull/2492)
+
+# 2025-09-14 00:26
+- [chore(guide): Updated the home/index page](https://github.com/TRaSH-Guides/Guides/pull/2488)
+- [feat(radarr): Add RlsGrp `PiRAMiDHEAD` to `Remux Tier 01`](https://github.com/TRaSH-Guides/Guides/pull/2487)
+- [feat(starr): Renamed `DV (WEBDL)` to `DV (w/o HDR fallback)`](https://github.com/TRaSH-Guides/Guides/pull/2485)
+
 # 2025-09-07 00:26
 - [fix(starr): audio channel CFs consistency](https://github.com/TRaSH-Guides/Guides/pull/2478)
 - [update(anime): remove CRUCiBLE due to retagging](https://github.com/TRaSH-Guides/Guides/pull/2477)
