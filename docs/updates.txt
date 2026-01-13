@@ -1,3 +1,23 @@
+# 2026-01-11 02:03
+- [feat(guide): Add User Promotion Deals](https://github.com/TRaSH-Guides/Guides/pull/2589)
+- [fix(hardlinks): Add a "fast" way to create folder structure to the Docker guide](https://github.com/TRaSH-Guides/Guides/pull/2586)
+- [fix(guide-sync): update Recyclarr URL to new Recyclarr URL](https://github.com/TRaSH-Guides/Guides/pull/2585)
+- [fix(starr): Cleaned up and improved readability of the regex for Repack1,2,3](https://github.com/TRaSH-Guides/Guides/pull/2581)
+- [feat(guide-sync): Add trash_url to quality profile JSON files](https://github.com/TRaSH-Guides/Guides/pull/2587)
+- [feat(radarr): add RlsGrp `Mesc` to `LQ`](https://github.com/TRaSH-Guides/Guides/pull/2582)
+- [fix(starr): Add negate for REAL PROPER|REPACK to the` Repack/Proper` to prevent double scoring](https://github.com/TRaSH-Guides/Guides/pull/2580)
+
+# 2026-01-04 02:04
+- [feat(starr): Add RlsGrp `TURG` to `Bad Dual Groups`](https://github.com/TRaSH-Guides/Guides/pull/2579)
+- [feat(starr): Enable `includeCustomFormatWhenRenaming` Repack 2/3 and add negate to prevent double scoring](https://github.com/TRaSH-Guides/Guides/pull/2577)
+- [feat(starr): Add RlsGrp `HHWEB` to WEB Tier 03](https://github.com/TRaSH-Guides/Guides/pull/2578)
+
+# 2025-12-28 00:31
+- [fix(downloaders): Update Fixing Run Errors script](https://github.com/TRaSH-Guides/Guides/pull/2574)
+
+# 2025-12-21 00:30
+- [feat(radarr): Move RlsGrp BYNDR to WEB Tier 01](https://github.com/TRaSH-Guides/Guides/pull/2573)
+
 # 2025-12-14 00:30
 - [feat(guide-sync): add profile groups](https://github.com/TRaSH-Guides/Guides/pull/2561)
 - [feat(radarr): Add RlsGrp `VisionXpert` to `Generated Dynamic HDR`](https://github.com/TRaSH-Guides/Guides/pull/2567)
