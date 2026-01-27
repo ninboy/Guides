@@ -1,117 +1,135 @@
 {
-  "trash_id": "545a76b14ddc349b8b185a6344e28b04",
+  "trash_id": "dc262f88d74c651b12e9d90b39f6c753",
   "trash_scores": {
-    "default": 1000
+    "default": 100
   },
-  "name": "Anime BD Tier 05 (Remuxes)",
+  "name": "Anime Web Tier 06",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
-      "name": "Bluray",
+      "name": "WEBDL",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 6
+        "value": 3
       }
     },
     {
-      "name": "Bluray Remux",
+      "name": "WEBRIP",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 7
+        "value": 4
       }
     },
     {
-      "name": "DVD",
+      "name": "WEB",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 5
+        "value": 1
       }
     },
     {
-      "name": "BluDragon",
+      "name": "9volt",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(BluDragon)\\b"
+        "value": "\\b(9volt)\\b"
       }
     },
     {
-      "name": "D4C",
+      "name": "Asenshi",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(D4C)\\b"
+        "value": "\\b(Asenshi)\\b"
       }
     },
     {
-      "name": "E.N.D",
+      "name": "Chihiro",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(E[.-]N[.-]D)\\b"
+        "value": "\\[Chihiro\\]|-Chihiro\\b"
       }
     },
     {
-      "name": "PMR",
+      "name": "Commie",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "^(?=.*\\b(PMR)\\b)(?=.*\\b(Remux)\\b)"
+        "value": "\\b(Commie)\\b"
       }
     },
     {
-      "name": "Raizel",
+      "name": "DameDesuYo",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(Raizel)\\b"
+        "value": "\\b(DameDesuYo)\\b"
       }
     },
     {
-      "name": "REVO",
+      "name": "Doki",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(REVO)\\b"
+        "value": "\\[Doki\\]|-Doki\\b"
       }
     },
     {
-      "name": "SRLS",
+      "name": "GJM",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(SRLS)\\b"
+        "value": "\\b(GJM)\\b"
       }
     },
     {
-      "name": "TTGA",
+      "name": "Kaleido",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(TTGA)\\b"
+        "value": "\\b(Kaleido)\\b"
       }
     },
     {
-      "name": "VULCAN",
+      "name": "Kantai",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(VULCAN)\\b"
+        "value": "\\[Kantai\\]|-Kantai\\b"
+      }
+    },
+    {
+      "name": "KawaSubs",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(KawaSubs)\\b"
+      }
+    },
+    {
+      "name": "Tsundere",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\[Tsundere\\]|-Tsundere(?!-)\\b"
       }
     }
   ]

@@ -1,36 +1,36 @@
 {
-  "trash_id": "fb3ccc5d5cc8f77c9055d4cb4561dded",
+  "trash_id": "e0014372773c8f0e1bef8824f00c7dc4",
   "trash_scores": {
-    "default": 1400
+    "default": 600
   },
-  "name": "Anime BD Tier 01 (Top SeaDex Muxers)",
+  "name": "Anime Web Tier 01",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
-      "name": "Bluray",
+      "name": "WEBDL",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 9
+        "value": 3
       }
     },
     {
-      "name": "DVD",
+      "name": "WEBRIP",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 5
+        "value": 4
       }
     },
     {
-      "name": "Aergia",
-      "implementation": "ReleaseTitleSpecification",
+      "name": "WEB",
+      "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[Aergia\\]|-Aergia(?!-raws)\\b"
+        "value": 1
       }
     },
     {
@@ -43,12 +43,39 @@
       }
     },
     {
-      "name": "Legion",
+      "name": "Arid",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[Legion\\]|-Legion\\b"
+        "value": "\\[Arid\\]|-Arid\\b"
+      }
+    },
+    {
+      "name": "Baws",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(Baws)\\b"
+      }
+    },
+    {
+      "name": "FLE",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(FLE)\\b"
+      }
+    },
+    {
+      "name": "LostYears",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(LostYears)\\b"
       }
     },
     {
@@ -61,12 +88,12 @@
       }
     },
     {
-      "name": "OZR",
+      "name": "McBalls",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(OZR)\\b"
+        "value": "\\b(McBalls)\\b"
       }
     },
     {
@@ -88,6 +115,15 @@
       }
     },
     {
+      "name": "Setsugen",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(Setsugen)\\b"
+      }
+    },
+    {
       "name": "smol",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
@@ -106,21 +142,21 @@
       }
     },
     {
-      "name": "Vanilla",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\[Vanilla\\]|-Vanilla\\b"
-      }
-    },
-    {
       "name": "Vodes",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
         "value": "\\[Vodes\\]|(?<!Not)-Vodes\\b"
+      }
+    },
+    {
+      "name": "Z4ST1N",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(Z4ST1N)\\b"
       }
     },
     {

@@ -1,13 +1,22 @@
 {
-  "trash_id": "8167cffba4febfb9a6988ef24f274e7e",
+  "trash_id": "c81bbfb47fed3d5a3ad027d077f889de",
   "trash_scores": {
-    "default": 600
+    "default": 700
   },
-  "name": "Anime Web Tier 01 (Muxers)",
+  "name": "Anime BD Tier 08 (Mini Encodes)",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
-      "name": "WEBDL",
+      "name": "Bluray",
+      "implementation": "SourceSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 6
+      }
+    },
+    {
+      "name": "Bluray Remux",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
@@ -16,138 +25,102 @@
       }
     },
     {
-      "name": "WEBRIP",
+      "name": "DVD",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 8
+        "value": 5
       }
     },
     {
-      "name": "Arg0",
+      "name": "AkihitoSubs",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(Arg0)\\b"
+        "value": "\\b(AkihitoSubs)\\b"
       }
     },
     {
-      "name": "Arid",
+      "name": "Arukoru",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[Arid\\]|-Arid\\b"
+        "value": "\\b(Arukoru)\\b"
       }
     },
     {
-      "name": "Baws",
+      "name": "EDGE",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(Baws)\\b"
+        "value": "\\[EDGE\\]|-EDGE\\b"
       }
     },
     {
-      "name": "LostYears",
+      "name": "EMBER",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(LostYears)\\b"
+        "value": "\\[EMBER\\]|-EMBER\\b"
       }
     },
     {
-      "name": "LYS1TH3A",
+      "name": "GHOST",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(LYS1TH3A)\\b"
+        "value": "\\[GHOST\\]|-GHOST\\b"
       }
     },
     {
-      "name": "McBalls",
+      "name": "Judas",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(McBalls)\\b"
+        "value": "\\[Judas\\]|-Judas"
       }
     },
     {
-      "name": "sam",
+      "name": "naiyas",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[sam\\]|-sam\\b"
+        "value": "\\[naiyas\\]|-naiyas\\b"
       }
     },
     {
-      "name": "SCY",
+      "name": "Nep_Blanc",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(SCY)\\b"
+        "value": "\\b(Nep[ ._-]Blanc)\\b"
       }
     },
     {
-      "name": "Setsugen",
+      "name": "Prof",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(Setsugen)\\b"
+        "value": "\\[Prof\\]|-Prof\\b"
       }
     },
     {
-      "name": "smol",
+      "name": "Shirσ",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[smol\\]|-smol\\b"
-      }
-    },
-    {
-      "name": "SoM",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\[SoM\\]|-SoM\\b"
-      }
-    },
-    {
-      "name": "Vodes",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\[Vodes\\]|(?<!Not)-Vodes\\b"
-      }
-    },
-    {
-      "name": "Z4ST1N",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\b(Z4ST1N)\\b"
-      }
-    },
-    {
-      "name": "ZeroBuild",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\b(ZeroBuild)\\b"
+        "value": "\\b(Shirσ)\\b"
       }
     }
   ]

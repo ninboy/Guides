@@ -1,9 +1,9 @@
 {
-  "trash_id": "949c16fe0a8147f50ba82cc2df9411c9",
+  "trash_id": "ed7f1e315e000aef424a58517fa48727",
   "trash_scores": {
-    "default": 1400
+    "default": 1300
   },
-  "name": "Anime BD Tier 01 (Top SeaDex Muxers)",
+  "name": "Anime BD Tier 02",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
@@ -52,75 +52,120 @@
       }
     },
     {
-      "name": "Legion",
+      "name": "Arid",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[Legion\\]|-Legion\\b"
+        "value": "\\[Arid\\]|-Arid\\b"
       }
     },
     {
-      "name": "LYS1TH3A",
+      "name": "FateSucks",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(LYS1TH3A)\\b"
+        "value": "\\b(FateSucks)\\b"
       }
     },
     {
-      "name": "OZR",
+      "name": "hydes",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(OZR)\\b"
+        "value": "\\b(hydes)\\b"
       }
     },
     {
-      "name": "sam",
+      "name": "hchcsen",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[sam\\]|-sam\\b"
+        "value": "\\b(hchcsen)\\b"
       }
     },
     {
-      "name": "SCY",
+      "name": "JOHNTiTOR",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(SCY)\\b"
+        "value": "\\b(JOHNTiTOR)\\b"
       }
     },
     {
-      "name": "smol",
+      "name": "JySzE",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[smol\\]|-smol\\b"
+        "value": "\\b(JySzE)\\b"
       }
     },
     {
-      "name": "SoM",
+      "name": "koala",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[SoM\\]|-SoM\\b"
+        "value": "\\[koala\\]|-koala\\b"
       }
     },
     {
-      "name": "Vanilla",
+      "name": "Kulot",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[Vanilla\\]|-Vanilla\\b"
+        "value": "\\b(Kulot)\\b"
+      }
+    },
+    {
+      "name": "LostYears",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(LostYears)\\b"
+      }
+    },
+    {
+      "name": "Lulu",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\[Lulu\\]|-Lulu\\b"
+      }
+    },
+    {
+      "name": "Meakes",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(Meakes)\\b"
+      }
+    },
+    {
+      "name": "Orphan",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\[Orphan\\]|-Orphan\\b"
+      }
+    },
+    {
+      "name": "PMR",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(?=.*\\b(PMR)\\b)(?=.*\\b(Remux)\\b)"
       }
     },
     {
@@ -130,6 +175,24 @@
       "required": false,
       "fields": {
         "value": "\\[Vodes\\]|(?<!Not)-Vodes\\b"
+      }
+    },
+    {
+      "name": "WAP",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(WAP)\\b"
+      }
+    },
+    {
+      "name": "YURI",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\[YURI\\]|-YURI\\b"
       }
     },
     {

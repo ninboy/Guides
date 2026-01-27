@@ -1,135 +1,117 @@
 {
-  "trash_id": "9edaeee9ea3bcd585da9b7c0ac3fc54f",
+  "trash_id": "6115ccd6640b978234cc47f2c1f2cadc",
   "trash_scores": {
-    "default": 300
+    "default": 700
   },
-  "name": "Anime Web Tier 04 (Official Subs)",
+  "name": "Anime BD Tier 08",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
-      "name": "WEBDL",
+      "name": "Bluray",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 7
+        "value": 9
       }
     },
     {
-      "name": "WEBRIP",
+      "name": "DVD",
       "implementation": "SourceSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": 8
+        "value": 5
       }
     },
     {
-      "name": "BlueLobster",
+      "name": "AkihitoSubs",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(BlueLobster)\\b"
+        "value": "\\b(AkihitoSubs)\\b"
       }
     },
     {
-      "name": "Erai-Raws",
+      "name": "Arukoru",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(Erai-raws)\\b"
+        "value": "\\b(Arukoru)\\b"
       }
     },
     {
-      "name": "GST",
+      "name": "EDGE",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(GST)\\b"
+        "value": "\\[EDGE\\]|-EDGE\\b"
       }
     },
     {
-      "name": "HorribleRips",
+      "name": "EMBER",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(HorribleRips)\\b"
+        "value": "\\[EMBER\\]|-EMBER\\b"
       }
     },
     {
-      "name": "HorribleSubs",
+      "name": "GHOST",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(HorribleSubs)\\b"
+        "value": "\\[GHOST\\]|-GHOST\\b"
       }
     },
     {
-      "name": "KAN3D2M",
+      "name": "Judas",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(KAN3D2M)\\b"
+        "value": "\\[Judas\\]|-Judas"
       }
     },
     {
-      "name": "KiyoshiStar",
+      "name": "naiyas",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(KS|KiyoshiStar)\\b"
+        "value": "\\[naiyas\\]|-naiyas\\b"
       }
     },
     {
-      "name": "Lia",
+      "name": "Nep_Blanc",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\[Lia\\]|-Lia\\b"
+        "value": "\\b(Nep[ ._-]Blanc)\\b"
       }
     },
     {
-      "name": "NanDesuKa",
+      "name": "Prof",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(NanDesuKa)\\b"
+        "value": "\\[Prof\\]|-Prof\\b"
       }
     },
     {
-      "name": "URANIME",
+      "name": "Shirσ",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(URANIME)\\b"
-      }
-    },
-    {
-      "name": "VARYG",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\b(VARYG)\\b"
-      }
-    },
-    {
-      "name": "ZigZag",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\[ZigZag\\]|-ZigZab\b"
+        "value": "\\b(Shirσ)\\b"
       }
     }
   ]

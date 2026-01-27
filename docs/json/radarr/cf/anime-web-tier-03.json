@@ -1,9 +1,9 @@
 {
-  "trash_id": "c27f2ae6a4e82373b0f1da094e2489ad",
+  "trash_id": "de41e72708d2c856fa261094c85e965d",
   "trash_scores": {
     "default": 400
   },
-  "name": "Anime Web Tier 03 (Official Subs)",
+  "name": "Anime Web Tier 03",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
@@ -12,7 +12,7 @@
       "negate": false,
       "required": false,
       "fields": {
-        "value": 3
+        "value": 7
       }
     },
     {
@@ -21,25 +21,34 @@
       "negate": false,
       "required": false,
       "fields": {
-        "value": 4
+        "value": 8
       }
     },
     {
-      "name": "WEB",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 1
-      }
-    },
-    {
-      "name": "SubsPlease",
+      "name": "AnoZu",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(SubsPlease)\\b"
+        "value": "\\b(AnoZu)\\b"
+      }
+    },
+    {
+      "name": "Dooky",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(Dooky)\\b"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\[Kitsune\\]|-Kitsune\\b"
       }
     },
     {

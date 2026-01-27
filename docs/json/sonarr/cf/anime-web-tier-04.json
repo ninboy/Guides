@@ -1,9 +1,9 @@
 {
-  "trash_id": "22d953bbe897857b517928f3652b8dd3",
+  "trash_id": "4fd5528a3a8024e6b49f9c67053ea5f3",
   "trash_scores": {
-    "default": 200
+    "default": 300
   },
-  "name": "Anime Web Tier 05 (FanSubs)",
+  "name": "Anime Web Tier 04",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
@@ -12,7 +12,7 @@
       "negate": false,
       "required": false,
       "fields": {
-        "value": 7
+        "value": 3
       }
     },
     {
@@ -21,61 +21,43 @@
       "negate": false,
       "required": false,
       "fields": {
-        "value": 8
+        "value": 4
       }
     },
     {
-      "name": "9volt",
+      "name": "WEB",
+      "implementation": "SourceSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 1
+      }
+    },
+    {
+      "name": "Erai-Raws",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(9volt)\\b"
+        "value": "\\b(Erai-raws)\\b"
       }
     },
     {
-      "name": "GJM",
+      "name": "ToonsHub",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(GJM)\\b"
+        "value": "\\b(ToonsHub)\\b"
       }
     },
     {
-      "name": "Kaleido",
+      "name": "VARYG",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "\\b(Kaleido)\\b"
-      }
-    },
-    {
-      "name": "Kantai",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\[Kantai\\]|-Kantai\\b"
-      }
-    },
-    {
-      "name": "SobsPlease",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\b(SobsPlease)\\b"
-      }
-    },
-    {
-      "name": "Some-Stuffs",
-      "implementation": "ReleaseTitleSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "\\b(Some-Stuffs)\\b"
+        "value": "\\b(VARYG)\\b"
       }
     }
   ]
